@@ -1,0 +1,19 @@
+#Day2: 30 Days of python programming 
+  first_name = 'Toby'
+  last_name = Wallace 
+  full_name = 'Toby Wallace'
+  country = 'UK'
+  city = 'London'
+  age = '30'
+  year = '2025'
+  is_married = 'False'
+  is_true = 'True'
+  is_light_on = 'True'
+  person_info = {
+    'firstname':'Toby'
+    'lastname':'Wallace'
+    'country':'UK'
+    'city':'London'
+}
+print(type('Toby'))
+len(first_name)
